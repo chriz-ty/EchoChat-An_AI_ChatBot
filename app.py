@@ -7,7 +7,7 @@ load_dotenv()
 
 import streamlit as st
 import os
-os.environ["OPEN_API_KEY"]="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"
+os.environ["OPEN_API_KEY"]="#Enter your OPENAI API KEY here"
 def get_openai_response(question):
     llm=OpenAI(openai_api_key=os.getenv("OPEN_API_KEY"),model_name="gpt-3.5-turbo-instruct", temperature=0.5)
     response=llm(question)
