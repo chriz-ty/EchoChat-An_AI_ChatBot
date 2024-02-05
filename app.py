@@ -1,11 +1,11 @@
-#Q&A Chatbot
+
 
 from langchain_community.llms import OpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
 
-import streamlit as st
+import streamlit as st #for creating UI
 import os
 os.environ["OPEN_API_KEY"]="#Enter your OPENAI API KEY here"
 def get_openai_response(question):
@@ -13,14 +13,13 @@ def get_openai_response(question):
     response=llm(question)
     return response
 
-#initilaize streamlit app
 
+#initilaize streamlit app
 st.set_page_config(page_title="Echo Chat")
 st.header("Echo Chat - An AI ChatBot")
 
 input=st.text_input("Input: ",key="input")
 response=get_openai_response(input)
-
 submit=st.button("Ask the question")
 
 if submit:
