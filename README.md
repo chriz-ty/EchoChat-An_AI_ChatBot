@@ -53,6 +53,8 @@ Consider future enhancements or features to improve the LLM Chatbot. Contributio
 ## Contributor
 
 - Christy Maria Sebastian
+  3rd year AI & DS student
+  SJCET Palai
 
 ## Acknowledgments
 
