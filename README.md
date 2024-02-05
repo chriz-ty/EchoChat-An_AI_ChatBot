@@ -52,8 +52,8 @@ Consider future enhancements or features to improve the LLM Chatbot. Contributio
 
 ## Contributor
 
-- Christy Maria Sebastian \n
-  3rd year AI & DS student \n
+- Christy Maria Sebastian <br>
+  3rd year AI & DS student <br>
   SJCET Palai
 
 ## Acknowledgments
