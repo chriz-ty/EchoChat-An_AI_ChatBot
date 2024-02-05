@@ -25,9 +25,9 @@ To interact with the LLM Chatbot, follow these simple steps:
 1. First of all, create your OPENAI API KEY from [OpenAI API](https://platform.openai.com/api-keys)
 2. Paste the API key in the provided space in the app.py file
 3. Create a conda venv Environment
-    ```
-    conda create -p venv python==3.9 -y
-    ```
+   ```
+   conda create -p venv python==3.9 -y
+   ```
 4. Activate the venv environment
   ```
     conda activate venv/
