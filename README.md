@@ -46,6 +46,10 @@ To interact with the LLM Chatbot, follow these simple steps:
 ![image](https://github.com/chriz-ty/EchoChat-An_AI_ChatBot/assets/93939468/5495596d-1490-43c0-bb54-3e7e1ebdd38a)
 
 
+https://github.com/chriz-ty/EchoChat-An_AI_ChatBot/assets/93939468/421f89d1-6ce6-4cc4-a23a-32873698e94b
+
+
+
 ## Future Improvements
 
 Consider future enhancements or features to improve the LLM Chatbot. Contributions and suggestions are welcome.
@@ -59,3 +63,7 @@ Consider future enhancements or features to improve the LLM Chatbot. Contributio
 ## Acknowledgments
 
 Special thanks to GTech Mulearn for organizing the Pathway AI BootCamp and providing the opportunity to work on this project.
+
+
+
+If any doubts, feel free to contact me :-) ;-)
